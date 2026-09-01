@@ -30,6 +30,12 @@
 <h1>🚀 AI-Powered Community</h1>
 <p>s</p>
 <p>Próximamente más contenido...</p>
+<h2>Features</h2>
+<ul>
+    <li>Inteligencia Artificial avanzada</li>
+    <li>Comunidad activa y colaborativa</li>
+    <li>Recursos exclusivos y actualizados</li>
+</ul>
 <hr/>
 <p><small>Versión: 0.1.0 | Actualizado: $(date +%Y-%m-%d)</small></p>
 </div>
