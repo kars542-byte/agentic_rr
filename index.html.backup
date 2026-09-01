@@ -1,43 +1,41 @@
 <!DOCTYPE html>
-
 <html lang="es">
 <head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Community Site - Agentic RR</title>
-<style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agentic RR - Comunidad IA</title>
+    <style>
         body {
             font-family: Arial, sans-serif;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
-            background: #f5f5f5;
+            background: #f0f4f8;
+            color: #1a202c;
         }
-        h1 {
-            color: #2c3e50;
-            text-align: center;
-        }
+        h1 { color: #2b6cb0; text-align: center; }
         .container {
             background: white;
             padding: 30px;
             border-radius: 10px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            color: #718096;
+            font-size: 0.9em;
+        }
     </style>
 </head>
 <body>
-<div class="container">
-<h1>🚀 AI-Powered Community</h1>
-<p>s</p>
-<p>Próximamente más contenido...</p>
-<h2>Features</h2>
-<ul>
-    <li>Inteligencia Artificial avanzada</li>
-    <li>Comunidad activa y colaborativa</li>
-    <li>Recursos exclusivos y actualizados</li>
-</ul>
-<hr/>
-<p><small>Versión: 0.1.0 | Actualizado: $(date +%Y-%m-%d)</small></p>
-</div>
+    <div class="container">
+        <h1>🤖 Comunidad Agentic RR</h1>
+        <p>Esta página está siendo gestionada por un <strong>agente de IA</strong>.</p>
+        <p>Próximamente: contenido generado por inteligencia artificial.</p>
+        <div class="footer">
+            <p>© 2025 - Desarrollado con IA</p>
+        </div>
+    </div>
 </body>
 </html>
